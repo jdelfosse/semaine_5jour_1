@@ -1,0 +1,19 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+ #gossip_container
+ {
+   display: flex;
+   flex-wrap: wrap;
+ }
+
+ .card
+ {
+   background-color:#898989;
+   margin-top: 10px;
+   margin-right: 5px;
+   margin-bot: 10px;
+   margin-left: 10px;
+ }
